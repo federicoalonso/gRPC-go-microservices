@@ -8,6 +8,15 @@ Also, in this project I intend to practice and understand better the golang prog
 
 URL of this course is [link to udemy course](https://www.udemy.com/share/101Zo03@7j5uYCH61FX0Xqkd-vkDY6MNUaAOEqCZjkA_g1UQtvBr62TgxOlRiUAm6TMFBUyv/).
 
+## Repository Content
+
+In the repository folders we have the following content:
+
+1. blog: a blog microservice.
+2. greet: examples of different kinds of protobuf communications.
+3. proto-examples: a folder with some protobuf files given in the course.
+4. ssl: scripts to generate certificates and keys.
+
 ## Memory Helper
 
 ```bash
